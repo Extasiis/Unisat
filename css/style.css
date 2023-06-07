@@ -255,7 +255,9 @@ section header ul li a{
     }
 
     .content .textBox{
-        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .slider{
