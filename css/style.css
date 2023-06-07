@@ -311,7 +311,7 @@ section header ul li a{
         visibility: visible;
         opacity: 1;
         position: absolute;
-        background: #e51e2bef;
+        background: linear-gradient(90deg,#eac249,#df7a03);
         width: 100%;
         height: 100vh;
         top: 0;
